@@ -47,14 +47,14 @@ You can check [here](https://explorer.jito.wtf/bundle-explorer?sortBy=Tip "Jito 
 sol_usd = $200(now $230)
 
 Price_difference = 0.0000009090695569180615 - 0.0000009057231624805397 = 0.000000003346394437521828\
-USD = $0.0000006692788875043656\
+USD = $0.0000006692788875043656
 
 jito tip = $10\
 profit = $10\
 toten_amount = 29882908.86416097\
-initial_money = 27.065642720565627\
+initial_money = 27.065642720565627
 
 jito tip = $20\
 profit = $10\
 toten_amount = 44824363.296241455\
-initial_money = 40.59846408084844\
+initial_money = 40.59846408084844

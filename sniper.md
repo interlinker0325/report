@@ -41,17 +41,17 @@ The goal of a sniper is to identify that tiny fraction of tokens that have a rea
 
 ### Sniper Bots Win On:
 
-✅ Low startup cost
-✅ Lower capital requirements
-✅ Simpler to understand/use
-✅ Higher potential returns per trade
+✅ Low startup cost\
+✅ Lower capital requirements\
+✅ Simpler to understand/use\
+✅ Higher potential returns per trade\
 ✅ Better for retail traders
 
 ### Arbitrage Bots Win On:
 
-✅ More consistent, predictable returns
-✅ Lower risk per trade
-✅ Works in any market condition
+✅ More consistent, predictable returns\
+✅ Lower risk per trade\
+✅ Works in any market condition\
 ✅ Better for institutional/large capital
 
 ## 💖 Key consideration for the sniper and arbi bot(DEEPSEEK recommendation) 💖
